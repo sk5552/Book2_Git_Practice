@@ -1,0 +1,2 @@
+the user on the remote repose should be able to add changes on the file
+the SDET shoul use this teqnique to add or chage other sdets file when in a group but not her own file
