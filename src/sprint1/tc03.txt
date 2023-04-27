@@ -1,0 +1,7 @@
+write text
+write test case
+write test case
+select commit on the left
+check the box for tc03
+write comment
+select commit
