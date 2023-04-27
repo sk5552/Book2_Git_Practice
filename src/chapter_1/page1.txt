@@ -1,0 +1,2 @@
+Hello
+do you realize when revert hard the commit deletes in local page.
